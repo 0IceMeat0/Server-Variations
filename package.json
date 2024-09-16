@@ -14,7 +14,6 @@
     "dependencies": {
         "cross-env": "^7.0.3",
         "dotenv": "^16.4.5",
-        "express": "^4.20.0",
         "nodemon": "^3.1.4",
         "pg": "^8.12.0"
     },
